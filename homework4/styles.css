@@ -6,6 +6,8 @@ body {
 
 .logo {
     margin: 48px 100px;
+    width:238px;
+    height:24px;
 }
 
 .header{
@@ -34,6 +36,7 @@ ul {
     align-items: center;
     flex-direction: column-reverse;
     background-image: url(./images/Rectangle.jpg);
+    background-size: cover;
 }
 
 
@@ -51,6 +54,8 @@ ul {
 .sneakers {
     margin: 0px 32px 164px 100px;
     float: left;
+    width:288px;
+    height:288px;
 }
 
 h2 {
@@ -74,7 +79,8 @@ h2 {
 .section3 {
     height: 862px;
     width: 1440px;
-    background-image: url(./images/Rectangle2.png);
+    background-image: url(./images/rect2.png);
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -98,6 +104,8 @@ h2 {
 .sneakers_last {
     margin: 0px 136px 122px 99px;
     float: left;
+    width:606px;
+    height:608px;
 }
 
 .section4 h2 {
